@@ -1,0 +1,75 @@
+# 按照项目名/仓库名搜索（大小写不敏感）
+in:name xxx
+# 按照README搜索（大小写不敏感）
+in:readme xxx
+# 按照description搜索（大小写不敏感）
+in:description xxx
+# stars数大于xxx
+stars:>xxx
+# forks数大于xxx
+forks:>xxx
+
+# 编程语言为xxx
+
+language:xxx
+# 最新更新时间晚于YYYY-MM-DD
+pushed:>YYYY-MM-DD
+
+第一：《C Primer Plus》(第5版）中文版  买新版  
+第二：《C++Primer》中文版
+第三：《C++ Primer Plus》 比第二更适合零基础
+第四：《Java编程思想》
+第五：《Java核心技术》卷1卷2
+第六：《Python核心编程》
+第七：《Python编程从入门到实战》
+第八：《Go语言实战》 or《Go In Action》
+第九：《算法导论》 不适合初学者
+第十：《算法》第四版 红色 
+第十一：《TCP/IP详解》
+第十二：《计算机网络 自顶向下》
+第十三：《私房菜》  工具书
+第十四：《Unix环境高级编程》
+第十五：《Spring实战》
+第十六：《Spring Boot实战》
+第十七：《Spring技术内幕》 很难
+第十八：《MySQL必知必会》   涵盖 《SQL必知必会》的内容
+第十九：《高性能MySQL》  
+第二十：《重构 改善既有代码的设计》 需要一些经验，拔高内容
+
+
+
+C3h(<me)w,cd
+
+-Xms128m
+-Xmx750m
+
+https://www.jianshu.com/p/602f6ecf48fd  	梁金龙：如何用 Typora 神器从容地写作
+
+
+
+mysql初始密码:   j1SrhHfI,4qO
+
+j1SrhHfI,4qO
+
+
+
+create table Student(
+
+S# varchar(8),
+
+Sname varchar(10),
+
+Sage int(2),
+
+Ssex varchar(2),
+
+D# varcahr(2),
+
+Sclass varchar(6)) ;
+
+
+
+create table Student(S# varchar(8),Sname varchar(10),Sage int(2),Ssex varchar(2),D# varcahr(2),Sclass varchar(6)) ;
+
+[md 语法](https://markdown.com.cn/editor/)
+
